@@ -1,4 +1,5 @@
 # Coinpunk Installation Procedure
+https://www.codeship.io/projects/97b0fe30-86d7-0131-49f1-3e77f06cd138/status
 
 This guide will assist you with installing Coinpunk. This document assumes you are running Ubuntu 12.04 LTS, adjustments may need to be made for other OSes.
 
